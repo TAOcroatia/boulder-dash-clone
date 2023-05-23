@@ -1,0 +1,44 @@
+20 10
+&&&&&&&&&&&&&&&&&&&&
+& *    ** P       E&
+&      *  O        &
+&    OOOOOOOOOOO   &
+&     OOOOOOOOO    &
+&      OOOOOOO     &
+&       OOOOO.     &
+&        OOO       &
+&         O        &
+&&&&&&&&&&&&&&&&&&&&
+
+&&&&&&&&&&&&&&&&&&&&
+&.....O............&
+&....OO............&
+&....OO.........*..&
+&..................&
+&                  &
+&                  &
+&        P         &
+&                  &
+&&&&&&&&&&&&&&&&&&&&
+
+WWWWWWWWWWWWWWWWWWWW
+WDDDDDSDDDDDDDDDDDDW
+WDDDDSSDDDDDDDDDDDDW
+WDDDDSSDDDDDDDDDGDDW
+WDDDDDDDDDDDDDDDDDDW
+W                  W
+W                  W
+W        P         W
+W                  W
+WWWWWWWWWWWWWWWWWWWW
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓░░░░░O░░░░░░░░░░░░▓
+▓░░░░OO░░░░░░░░░░░░▓
+▓░░░░OO░░░░░░░░░╬░░▓
+▓░░░░░░░░░░░░░░░░░░▓
+▓                  ▓
+▓                  ▓
+▓        ■         ▓
+▓                  ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
